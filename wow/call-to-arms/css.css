@@ -1,1 +1,185 @@
+body {
+    background-color: #8a8577;
+	background-image:url('');
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 11px;
+	color: #ccbda2;
+	line-height: 9px;
+	text-transform: none;
+    text-align: center;
+	}
+	
+#image {
+	position: absolute;
+	width: 564px;
+	left: 220px;
+	top: 10px;
+	z-index: 1;
+	height: 376px;
+	background-image: url('https://i.ibb.co/R3FrJDz/calltoarms.png');
+	}
 
+
+ #navy {
+	position: absolute;
+	left: 244px;
+	top: 350px;
+	z-index: 3;
+	margin-right: 2px;
+	margin-left: 2px;
+	text-align: justify;
+	padding: 5px;
+	}
+
+
+#main {
+    background-color: #68655c;
+	position: absolute;
+	width: 553px;
+	left: 220px;
+	top: 380px;
+	z-index: 3;
+	margin-right: 2px;
+	margin-left: 2px;
+	text-align: justify;
+	padding: 5px;
+    text-align: center;
+
+	}
+
+
+h1 { 
+	margin: 0px;
+	padding-right: 1px;
+	text-decoration: none;
+    color: #7d888a;
+	font-family: 'Courier New', Courier, monospace;
+	border-bottom: 3px solid #491f1f28;
+	font-size: 20px;
+	font-weight: bold;
+	font-style: none;
+	letter-spacing: -1px;
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 0px;
+	margin-top: 10px;
+	padding: 0px;
+	}
+
+	
+a:visited, a:active, a:link {
+    color: #d1cea9;
+    font-weight: normal;
+
+    text-decoration: none; 
+	}
+	
+a:hover {
+	color: #b196c0;
+	cursor: default;
+	}
+	
+	
+		
+b {
+    font-size: 9px; 
+    font-weight: bold;
+    color: #660c0c; 
+}
+
+i {
+    letter-spacing: 0px;
+    color: #000000;
+}
+
+u {
+    font-family:  Arial, Helvetica, sans-serif; 
+    font-size: 12px; 
+    font-weight: normal;
+    letter-spacing: -1px !important;
+    word-spacing: 3px;
+    color: #000000; 
+    text-decoration: none; 
+    border-bottom: 0px; 
+    letter-spacing: 0px;
+}
+
+strong {
+    color: #22161c;
+	font-size: 11px;
+    font-family:  Arial, Helvetica, sans-serif;  
+	font-weight: bold;
+}
+
+blockquote {
+	width:86%;
+    background-color: #a6b1a2;
+    color: #000000;
+	font-family: 'Courier New';
+	font-size: 10px;
+	letter-spacing:0px;
+    word-spacing: -2px;
+	text-transform:normal;
+    line-height: 12px;
+	font-weight:normal;
+	padding: 2px;
+}
+
+
+a:link.nav, a:visited.nav, a:active.nav {
+	color: #8d4d4d;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 19px;
+	line-height: 9px;
+    font-weight: 900;
+	letter-spacing: 0px; 
+	margin-bottom: 2px; 
+	word-spacing: 0px; 
+    padding: 3px;
+	text-transform: uppercase;  
+	background-color: #ffe59e8f; 
+	text-align: right; 
+	text-decoration: none; 
+	}
+	
+a:hover.nav {
+	color: #3d3030;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 19px;
+	line-height: 9px;
+	letter-spacing: 0px; 
+	font-weight: 900; 
+	margin-bottom: 1px; 
+	word-spacing: 0px; 
+	text-transform: uppercase;  
+	background-color: #7a8364; 
+	text-align: left; 
+	text-decoration: none;
+	border-bottom: 8px solid #e9ceaa;
+	}
+
+
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+::-webkit-scrollbar-button {
+  width: 0px;
+  height: 0px;
+}
+::-webkit-scrollbar-thumb {
+  background: #d6ad78;
+  border-radius: 0px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #660e0e;
+}
+::-webkit-scrollbar-thumb:active {
+  background: #8e967f;
+}
+::-webkit-scrollbar-track {
+  background: #a08686;
+  border-radius: 0px;
+
+}
+ 
